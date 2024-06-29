@@ -1,0 +1,1 @@
+# Hello, welcome to the source code for Rice's porfolio site
